@@ -1,6 +1,6 @@
 ---
-title: Simeons, plus bonsus La Forge
-date: 2021-11-29 21:42:16
+title: Simeons, plus bonus La Forge
+date: 2021-11-25 21:42:16
 tags: ['Ithaca', 'Travel']
 ---
 ## Simeons

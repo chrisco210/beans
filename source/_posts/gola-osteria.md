@@ -1,6 +1,6 @@
 ---
 title: Gola Osteria
-date: 2021-11-29 21:41:50
+date: 2021-10-16 21:41:50
 tags: Ithaca
 ---
 ![Mushroom soup](/images/gola1/gola1.JPEG)
