@@ -1,0 +1,3 @@
+[submodule "hexo-theme-mashiro"]
+    path = themes/hexo-theme-mashiro
+    url = https://github.com/bill-xia/hexo-theme-mashiro
