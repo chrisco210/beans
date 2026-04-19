@@ -1,7 +1,7 @@
 ---
 title: Le Bernardin
 date: 2025-09-21 22:39:27
-tags: ["New York City", "Travel", "Michelin"]
+tags: ["New York City", "Travel", "Michelin", "4/4 Beans"]
 ---
 
 Reviving the blog with my new domain (with my new future Spouse) rachlinyan.com. Switched from self hosting to Github pages + automations, should mean I can actually update the blog more frequently now. Luckily, I have the perfect oppertuntiy to do so.
